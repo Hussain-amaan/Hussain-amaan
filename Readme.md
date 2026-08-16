@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hussain Amaan Ashique
+# 👋 Hi, I'm Hussain Amaan 
 
 <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="300" alt="hello-gif" />
 
