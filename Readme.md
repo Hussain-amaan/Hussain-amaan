@@ -194,7 +194,10 @@ End-to-end Business Intelligence project using the Brazilian Olist e-commerce da
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-amaan&layout=compact&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Hussain-amaan&layout=compact&langs_count=8&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
